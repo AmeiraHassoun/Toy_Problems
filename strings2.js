@@ -40,6 +40,3 @@
 	//another way
 	function convert(num){
 		 return "'"+num+"'"
-	}
-
-
