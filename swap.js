@@ -2,6 +2,7 @@
 	// IbrAHiM --> iBRahIm
 	// ToYPRoblEm --> tOyprOBLeM
 	function swap(input){
+<<<<<<< HEAD
 		var newInput=""
 		for (var i = 0 ; i < input.length ; i++) {
 			if (input[i] === input[i].toUpperCase()){
@@ -14,4 +15,7 @@
 		}
 		console.log(newInput)
 		return newInput
+=======
+		//your code is here
+>>>>>>> 1f4b70ccd1b0d02156e514a7ebec16b5dfd39f01
 	}
